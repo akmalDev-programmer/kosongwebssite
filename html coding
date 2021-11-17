@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="officestyle.css">
+</head>
+<body>
+    <div class="container">
+        <section class="one">
+            <div class="text-one">
+                <h2>Office Automation System</h2>
+                <h3><br>An office automation system is the tool that enables data to move from
+                     one system to another on its own without human intervention and inaccuracies.
+                      These tools help organization collect, manage, and analyze securely to accomplish
+                       everyday tasks and processes</h3>
+                       <h3><br>Typical examples of functions performed by an OAS include printing documents, mailing
+                            paperwork, mailing, maintaining a company calendar, and producing reports. Primarily,
+                             an office automation system assists in enhancing communication among different
+                              departments so everyone can collaborate to complete a task.</h3>
+                              <div class="row">
+                                  <a href="https://zipreporting.com/">producing<br>reports</a>
+        </section>
+        <div class="containerr">
+            <section class="two">
+                <div class="text-two">
+                    <h2>Purpose Of Office Automation System</h2>
+                    <h3><br>In today’s digital age, office automation systems offer an array of benefits for
+                         organizations of every size. Powerful office automation systems reduce manual effort
+                          and store a large amount of data in little space. They not only streamline day-to-day
+                           tasks but also speed up information retrieval. Additionally, these tools improve
+                            process visibility and help businesses spot bottlenecks easily. On the other hand,
+                             you could be watching data flow around on its own – that’s automation.
+                        </h3>
+                        <div class="secondrow">
+                            <a href="https://kissflow.com/">Improve<br>Process</a>
+            </section>
+            <div class="containerrr">
+                <section class="third">
+                    <div class="text-third">
+                        <h2>Important of the Office Automation System</h2>
+                        <h2><br>1. Easy workflow designer</h2>
+                        <h3><br>Creating workflows used to be the domain of hard-core
+                             system coders. So, as workflow software evolved, it
+                              assumed the people using it would be programmers as
+                               well.</h3>
+                               <h3><br>However, a modern office automation system should
+                                    start with the business user in mind, not the coder.</h3>
+                                    <h3><br>When you sit down to trial an office automation tool,
+                                         start off by making your own workflows. How easy is 
+                                         it? Can you intuitively create the sequence of tasks 
+                                         needed to finish a process? If you can’t figure it out
+                                          within the first five minutes, you need to move on to the 
+                                          next option.</h3>
+                                          <h3><br>A piece of software shouldn’t determine how your business
+                                               should set its operations. It should instead aid your teams
+                                                to strengthen the existing processes.</h3>
+                                                <div class="thirdrow">
+                                                    <a href="https://kissflow.com/workflow/">workflow<br>software</a>
+                </section>
+                <div class="containerrrr">
+                    <section class="four">
+                        <div class="text-four">
+                            <h2>2. Mobile compatibility</h2>
+                            <h3><br>Your office is mobile, and all your tools should be too. Whether you have remote workers or
+                                 you just want to check in while waiting for a flight, the office automation tool you choose
+                                  should work just as smoothly on someone’s phone while on a trip to China as it does on a PC
+                                   at the main office.</h3>
+                                   <h3><br>Your marketing campaign can’t be delayed a day just because you need to wait for Greg to get
+                                        back from his vacation in Machu Picchu.</h3>
+                                        <h3><br>You should be able to run your core processes from a secure cloud and never have to worry
+                                             about where your data is or who is protecting it. If you use an office automation tool like Kissflow,
+                                              then Greg can go over the marketing plan on his mobile from his hotel lobby in Peru and give his nod
+                                               before he goes on to take selfies with the llamas.</h3>
+                </section>
+                <div class="containerrrrr">
+                    <section class="five">
+                        <div class="text-five">
+                            <h2>3. Integration with other software</h2>
+                            <h3><br>Office automation software isn’t the only thing you are running. You’ve got your internal database,
+                                 a CRM, a marketing automation tool, and your financial software, and that’s just for starters.
+                                  When you’re reliant on so many systems, you need a tool that doesn’t just keep to itself.</h3>
+                                  <h3><br>Of all the software out there, office automation should be the easiest to integrate
+                                     with your other tools. If it doesn’t, you are stuck pushing data around from one system
+                                      to another.</h3>
+                                      <h3><br>When doing an evaluation, see what kind of pre-integrations the office automation software
+                                         provides, or if it takes advantage of connecting to a tool like Zapier to open access to thousands
+                                          of other cloud tools.</h3>
+                                          <div class="fourrow">
+                                              <a href="https://kissflow.com/workflow/workflow-integration-tools-and-tips/">Tool like<br>Zapier</a>
+                </section>
+                <div class="containerrrrrr">
+                    <section class="six">
+                        <div class="text-six">
+                            <h2>4. Reports and analytics</h2>
+                            <h3><br>How do you know if your office automation is yielding results? You can’t just evaluate process performance based
+                                 on how happy your team is. Data is the ultimate decision-maker, and it’s important for your business to compare a process’
+                                  history, its speed, the outcome quality, etc.</h3>
+                                  <h3><br>Adopting another software to measure your workflow data is time-consuming and unnecessary. Why not have a single piece
+                                     of software that comes embedded with reporting and analytics features? The best office automation products now come equipped
+                                      with this feature as part of their fundamental offering.</h3>
+                </section>
+                <div class="containerrrrrrr">
+                    <section class="seven">
+                        <div class="text-seven">
+                            <h2>5. Access control options</h2>
+                            <h3><br>Just like limiting entry to your office premises, you should also have access privileges
+                                 set to all of your business workflows.</h3>
+                                 <h3><br>A good workflow automation system understands this sensitive requirement and will have access control as part of its integral
+                                     features. Don’t overlook this capability when considering office automation software for your business.</h3>
+                                     <div class="fiverow">
+                                         <a href="https://kissflow.com/workflow/guides/automation-essentials-for-small-businesses/">Workflow Automation<br>System</a>
+                            </div>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+            </div>
+        </div>
+        </div>
+        </div>
+</div>
+</div>
+</div>
+    
+</body>
+</html>
